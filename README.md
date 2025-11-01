@@ -49,3 +49,11 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 - Insights on customer segments and sales channels
 - Forecasting of future sales trends based on historical data
 
+  ## 🎯 What I Learned
+
+- Power BI DAX calculations
+- Data cleaning and modeling
+- Professional dashboard design
+- Visualizing KPIs & business metrics
+
+
