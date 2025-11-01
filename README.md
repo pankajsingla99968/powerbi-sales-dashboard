@@ -32,6 +32,8 @@ Enable dynamic filtering and data exploration
 
 Forecast future sales using Power BI tools
 
+
+
 **✨ Key Features**
 
 📌 KPI cards for revenue, quantity, profit & more
@@ -46,6 +48,8 @@ Forecast future sales using Power BI tools
 
 📋 Detailed product-level & customer-level tables
 
+
+
 **🛠️ Technologies Used**
 
 | Tool / Language         | Purpose                                |
@@ -55,8 +59,10 @@ Forecast future sales using Power BI tools
 | **DAX**                 | Measures & business logic calculations |
 | **Excel / CSV Dataset** | Data source                            |
 
-**
-🎯 Key Insights**
+
+
+
+**🎯 Key Insights**
 
 📈 Revenue & Profit Trend Analysis
 
@@ -70,6 +76,8 @@ Forecast future sales using Power BI tools
 
 🧠 Interactive Filters & Clean UI Dashboard Design
 
+
+
 **🎓 What I Learned**
 
 - Power BI DAX calculations
@@ -77,11 +85,15 @@ Forecast future sales using Power BI tools
 - Professional dashboard design
 - Visualizing KPIs & business metrics
 
+  
+
 **📬 Contact**
 
 Created by Pankaj Singla
 Connect with me on LinkedIn 👇
 🔗 https://www.linkedin.com/in/pankajsingla999/
+
+
 
 ⭐ Support
 
