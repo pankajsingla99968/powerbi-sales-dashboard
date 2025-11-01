@@ -7,7 +7,7 @@
 
 This repository contains a comprehensive Power BI Sales Dashboard project that provides interactive and insightful visualizations to analyze sales performance. The dashboard aims to help users understand key metrics, identify trends, and make data-driven business decisions.
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 The Sales Dashboard enables an in-depth analysis of the sales dataset with features like filtering, drill-downs, and multiple visualization types. The project includes well-structured data, calculated measures, and interactive elements for a complete analytical experience.
 
@@ -20,7 +20,7 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
 
 
-##**🎯 Objectives**
+## **🎯 Objectives**
 
   Analyze overall sales performance
 
@@ -34,7 +34,7 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
 
 
-##**✨ Key Features**
+## **✨ Key Features**
 
   📌 KPI cards for revenue, quantity, profit & more
 
@@ -50,7 +50,7 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
 
 
-##**🛠️ Technologies Used**
+## **🛠️ Technologies Used**
 
 | Tool / Language         | Purpose                                |
 | ----------------------- | -------------------------------------- |
@@ -62,7 +62,7 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
 
 
-##**🎯 Key Insights**
+## **🎯 Key Insights**
 
   📈 Revenue & Profit Trend Analysis
 
@@ -78,7 +78,7 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
 
 
-##**🎓 What I Learned**
+## **🎓 What I Learned**
 
   Power BI DAX calculations
   Data cleaning and modeling
@@ -87,7 +87,7 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
   
 
-##**📬 Contact**
+## **📬 Contact**
 
   Created by Pankaj Singla
   Connect with me on LinkedIn 👇
@@ -95,7 +95,7 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
 
 
-##⭐ Support
+## ⭐ Support
 
 If you like this project, don't forget to ⭐ the repo!
 
