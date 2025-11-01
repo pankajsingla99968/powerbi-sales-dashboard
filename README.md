@@ -6,6 +6,15 @@ This repository contains a comprehensive Power BI Sales Dashboard project that p
 
 The Sales Dashboard enables an in-depth analysis of the sales dataset with features like filtering, drill-downs, and multiple visualization types. The project includes well-structured data, calculated measures, and interactive elements for a complete analytical experience.
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](screenshots/sales_dashboard.png)
+
+![Dashboard Screenshot](screenshots/15daysforecasting.png)
+
+
+
+
 ## Objectives
 
 - Visualize sales performance using interactive charts and KPIs
