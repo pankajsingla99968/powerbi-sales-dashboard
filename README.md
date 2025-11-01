@@ -1,3 +1,6 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project%20Status-Completed-success)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)
 # Power BI Sales Dashboard Project
 
 This repository contains a comprehensive Power BI Sales Dashboard project that provides interactive and insightful visualizations to analyze sales performance. The dashboard aims to help users understand key metrics, identify trends, and make data-driven business decisions.
