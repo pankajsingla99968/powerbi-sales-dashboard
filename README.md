@@ -22,19 +22,28 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
 🎯 Objectives
 
--Analyze overall sales performance
--Identify high-value regions, products & customers
--Track monthly/annual performance trends
--Enable dynamic filtering and data exploration
--Forecast future sales using Power BI tools
+Analyze overall sales performance
+
+Identify high-value regions, products & customers
+
+Track monthly/annual performance trends
+
+Enable dynamic filtering and data exploration
+
+Forecast future sales using Power BI tools
 
 ✨ Key Features
 
 📌 KPI cards for revenue, quantity, profit & more
+
 📅 Monthly & yearly trend analysis
+
 📊 Category, segment & region-wise performance breakdown
+
 🧠 Sales forecasting & predictive visuals
+
 📂 Drill-down & slicer-based navigation
+
 📋 Detailed product-level & customer-level tables
 
 🛠️ Technologies Used
@@ -49,12 +58,17 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
 🎯 Key Insights
 
--📈 Revenue & Profit Trend Analysis
--🌍 Region-wise Sales & Performance Distribution
--🔝 Top Performing Products
--👥 Customer Segment Analysis
--🗓️ Month-wise Sales Trends
--🧠 Interactive Filters & Clean UI Dashboard Design
+📈 Revenue & Profit Trend Analysis
+
+🌍 Region-wise Sales & Performance Distribution
+
+🔝 Top Performing Products
+
+👥 Customer Segment Analysis
+
+🗓️ Month-wise Sales Trends
+
+🧠 Interactive Filters & Clean UI Dashboard Design
 
 🎓 What I Learned
 
@@ -63,7 +77,7 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 - Professional dashboard design
 - Visualizing KPIs & business metrics
 
-  📬 Contact
+📬 Contact
 
 Created by Pankaj Singla
 Connect with me on LinkedIn 👇
