@@ -20,7 +20,7 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
 
 
-🎯 Objectives
+**🎯 Objectives**
 
 Analyze overall sales performance
 
@@ -32,7 +32,7 @@ Enable dynamic filtering and data exploration
 
 Forecast future sales using Power BI tools
 
-✨ Key Features
+**✨ Key Features**
 
 📌 KPI cards for revenue, quantity, profit & more
 
@@ -46,7 +46,7 @@ Forecast future sales using Power BI tools
 
 📋 Detailed product-level & customer-level tables
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 | Tool / Language         | Purpose                                |
 | ----------------------- | -------------------------------------- |
@@ -55,8 +55,8 @@ Forecast future sales using Power BI tools
 | **DAX**                 | Measures & business logic calculations |
 | **Excel / CSV Dataset** | Data source                            |
 
-
-🎯 Key Insights
+**
+🎯 Key Insights**
 
 📈 Revenue & Profit Trend Analysis
 
@@ -70,14 +70,14 @@ Forecast future sales using Power BI tools
 
 🧠 Interactive Filters & Clean UI Dashboard Design
 
-🎓 What I Learned
+**🎓 What I Learned**
 
 - Power BI DAX calculations
 - Data cleaning and modeling
 - Professional dashboard design
 - Visualizing KPIs & business metrics
 
-📬 Contact
+**📬 Contact**
 
 Created by Pankaj Singla
 Connect with me on LinkedIn 👇
