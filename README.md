@@ -1,3 +1,6 @@
+# Power BI Sales Dashboard  
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)  
+![Status](https://img.shields.io/badge/Status-Completed-green)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Project%20Status-Completed-success)
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)
