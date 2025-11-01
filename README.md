@@ -22,31 +22,31 @@ The Sales Dashboard enables an in-depth analysis of the sales dataset with featu
 
 **🎯 Objectives**
 
-Analyze overall sales performance
+  Analyze overall sales performance
 
-Identify high-value regions, products & customers
+  Identify high-value regions, products & customers
 
-Track monthly/annual performance trends
+  Track monthly/annual performance trends
 
-Enable dynamic filtering and data exploration
+  Enable dynamic filtering and data exploration
 
-Forecast future sales using Power BI tools
+  Forecast future sales using Power BI tools
 
 
 
 **✨ Key Features**
 
-📌 KPI cards for revenue, quantity, profit & more
+  📌 KPI cards for revenue, quantity, profit & more
 
-📅 Monthly & yearly trend analysis
+  📅 Monthly & yearly trend analysis
 
-📊 Category, segment & region-wise performance breakdown
+  📊 Category, segment & region-wise performance breakdown
 
-🧠 Sales forecasting & predictive visuals
+  🧠 Sales forecasting & predictive visuals
 
-📂 Drill-down & slicer-based navigation
+  📂 Drill-down & slicer-based navigation
 
-📋 Detailed product-level & customer-level tables
+  📋 Detailed product-level & customer-level tables
 
 
 
@@ -64,34 +64,34 @@ Forecast future sales using Power BI tools
 
 **🎯 Key Insights**
 
-📈 Revenue & Profit Trend Analysis
+  📈 Revenue & Profit Trend Analysis
 
-🌍 Region-wise Sales & Performance Distribution
+  🌍 Region-wise Sales & Performance Distribution
 
-🔝 Top Performing Products
+  🔝 Top Performing Products
 
-👥 Customer Segment Analysis
+  👥 Customer Segment Analysis
 
-🗓️ Month-wise Sales Trends
+  🗓️ Month-wise Sales Trends
 
-🧠 Interactive Filters & Clean UI Dashboard Design
+  🧠 Interactive Filters & Clean UI Dashboard Design
 
 
 
 **🎓 What I Learned**
 
-- Power BI DAX calculations
-- Data cleaning and modeling
-- Professional dashboard design
-- Visualizing KPIs & business metrics
+  Power BI DAX calculations
+  Data cleaning and modeling
+  Professional dashboard design
+  Visualizing KPIs & business metrics
 
   
 
 **📬 Contact**
 
-Created by Pankaj Singla
-Connect with me on LinkedIn 👇
-🔗 https://www.linkedin.com/in/pankajsingla999/
+  Created by Pankaj Singla
+  Connect with me on LinkedIn 👇
+  🔗 https://www.linkedin.com/in/pankajsingla999/
 
 
 
